@@ -160,6 +160,6 @@ session_key_start = 'session:'
 choujiang_key_start = 'choujiang:'
 
 test= 'test1'
-test2='test2'
+test2='test'
 
 
