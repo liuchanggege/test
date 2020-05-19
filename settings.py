@@ -159,4 +159,6 @@ EX_TIME = 60000#session失效时间
 session_key_start = 'session:'
 choujiang_key_start = 'choujiang:'
 
+test= 'test'
+
 
