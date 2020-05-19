@@ -160,6 +160,6 @@ session_key_start = 'session:'
 choujiang_key_start = 'choujiang:'
 
 test= 'test'
-bug='fix'
+bug='fixed'
 
 
